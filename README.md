@@ -3,5 +3,7 @@ The Simple Todo App is a web-based application that allows users to add, delete,
 🛠️ Tech Stack:
 
 Frontend: HTML, CSS, JavaScript
+
 Backend :JavaScript
+
 Tools: VS Code
